@@ -1,0 +1,7 @@
+[package]
+name = "pjs"
+version = "0.1.0"
+authors = ["Yuki Mitsui <silphire@gmail.com>"]
+
+[dependencies]
+getopts = "*"
